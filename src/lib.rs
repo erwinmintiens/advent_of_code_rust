@@ -1,4 +1,4 @@
-pub mod day6;
+pub mod day6_2023;
 
 use std::fs::read_to_string;
 

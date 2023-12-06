@@ -1,5 +1,5 @@
-pub mod day6;
-use day6::read_file_to_races;
+pub mod day6_2023;
+use day6_2023::read_file_to_races;
 
 fn main() {
     day6();
