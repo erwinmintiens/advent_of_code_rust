@@ -1,4 +1,3 @@
-pub mod day4;
 pub mod day6;
 
 use std::fs::read_to_string;

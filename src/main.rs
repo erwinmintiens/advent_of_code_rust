@@ -1,4 +1,3 @@
-pub mod day4;
 pub mod day6;
 use day6::read_file_to_races;
 
